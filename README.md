@@ -16,3 +16,7 @@
 -etc...
 
 Designed by tihynihy
+
+![mainFrame](https://user-images.githubusercontent.com/76163793/155956752-09c029dd-9522-4891-91dd-b8efccb6e36d.jpg)
+![clientInfoFrame](https://user-images.githubusercontent.com/76163793/155956754-77275f43-6695-4ff6-b991-3a7f9fb1bc37.jpg)
+
